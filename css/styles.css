@@ -82,6 +82,17 @@ body {
   border-radius: 25px;
 }
 
+.header-phone:hover,
+.header-phone:focus {
+  color: var(--accent-color);
+}
+
+.header-btn:hover,
+.header-btn:focus {
+  background-color: var(--accent-color);
+  color: var(--main-title-color);
+}
+
 /** -----------------------HERO---------------------- */
 
 .hero {
